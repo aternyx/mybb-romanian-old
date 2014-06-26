@@ -1,0 +1,175 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>MyBB - Readme for the Română(Romanian) language pack</title>
+
+<style type="text/css">
+html, body  { font-family: "Trebuchet MS", Verdana, Arial;
+			  color: #737373; background: #EEEEEE; margin: 20px 50px 20px 50px; }
+
+body 		{ -moz-border-radius: 25px 10px / 10px 25px;
+			  border-radius: 25px 10px / 10px 25px;
+		      border: 2px #E7E7E7 solid; }
+			  
+a:link, a:active, a:visited { color: #3D4044; text-decoration: none; }
+
+a:hover { border-bottom: 1px #E6E6E6 dashed; font-style: italic; }
+			  
+.title      { font-size: 12pt;
+			  font-weight: bold; 
+			  background: #E6E6E6;
+			  padding: 5px 5px 5px 5px;
+			  border-bottom: 2px #727272 solid; }
+
+.subtitle   { font-style: italic; }
+
+.contents   { font-weight: bold; }
+
+.contlist   { font-size: 10pt;
+			  line-height: 1.5 }
+
+.smtitle    { font-size: 10pt;
+			  font-weight: bold; }
+
+.content    { font-size: 10pt; }
+
+.instlist   { font-size: 10pt; }
+
+.footer1    { font-size: 10pt;
+			  margin-top: 60px; }
+
+.footer2    { font-size: 10pt;
+			  text-indent: 3em;
+			  line-height: 1.5 }
+			  
+.file       { color: #339966; }
+
+.wrapper	{ padding: 0px 5px 0px 5px; }
+
+#version_bubble     { -moz-border-radius: 25px 10px / 10px 25px;
+			         border-radius: 25px 10px / 10px 25px;
+			         background-color: #98AFC7; padding: 20px;
+					 color: #FFFFFF;
+					 border: 2px #E7E7E7 solid; margin: 0px 0px 0px 0px;}
+					 
+#contents_bubble     { -moz-border-radius: 1em 2em 1em 2em;
+					   border-radius: 1em 2em 1em 2em;
+			           background-color: #98AFC7; padding: 2px 0px 2px 10px;
+					   color: #FFFFFF; width: 250px; margin: 60px 0px 0px 0px;
+					   border: 2px #E7E7E7 solid;}
+</style>
+</head>
+
+
+<body>
+<a name="top"></a>
+
+<p class="title">README for the Română(Romanian) LANGUAGE PACK FOR MYBB - <i>Last updated:</i> 1st of May, 2014</p>
+
+<div class="wrapper">
+
+<div class="subtitle" id="version_bubble">This language pack is meant for <b>MyBB 1.6.13</b>. If you are using a different version of MyBB, then please <a href="http://www.mybb.com/download/latest" target="_blank">upgrade to the latest version</a>  and check if a <a href="http://community.mybb.com/thread-110656.html" target="_blank">newer language pack is available</a>.</div>
+
+
+<div id="contents_bubble">
+<p class="contents"><a name="inhoud">CONTENTS</a></p>
+<ol class="contlist" type="1">
+  <li><a href="#subj1">Introduction</a></li>
+  <li><a href="#subj2">Installation</a></li>
+  <li><a href="#subj3">Usage</a></li>
+  <li><a href="#subj4">Changes made since the previous language pack</a></li>
+  <li><a href="#subj5">Additional information</a></li>
+</ol>
+</div>
+
+<p class="smtitle"><a name="subj1">1. INTRODUCTION</a></p>
+
+<p class="content">In order to satisfy as many users as possible MyBB is available in a multitude of languages. By default
+MyBB is installed with the American English language files, but thanks to many volunteers MyBB is also available in other languages. This language pack will allow you to use MyBB in Romanian.</p>
+
+
+<p class="smtitle"><a name="subj2">2. INSTALLATION</a></p>
+
+<p class="content">The Romanian text is stored in language files, which are packed in an archive file together with this readme and the Romanian translation of this readme. These language files are divided amongst several folders. With this package several image files are also distributed. These images contain the Romanian translation for the buttons and the usergroup images.</p>
+
+<p class="content">This readme, the Romanian readme and a file called <font class="file">romanian.php</font> are in the main folder, the files containing the translations of the text for the front end are in a subfolder called <font class="file">Romanian</font> and the files containing the translations of the text for the admin end are in a subfolder called <font class="file">admin</font> in the previously mentioned subfolder <font class="file">Romanian</font>. Additionally a folder called <font class="file">images</font> will be present. This folder contains the images with the Romanian text.</p>
+
+<p class="content">You will have to create the same folder structure on your server and place the language files in those folders. Below are extensive instructions on how to do this. We will assume you have already extracted the contents of the archive to your computer, which means the files are already available and the folder structure is as it should be. We will also assume you know how to use an FTP program to connect to your server. The tasks below should be executable with any FTP program.</p>
+
+<ol class="instlist" type="1">
+  <li>Open your FTP program and connect to your server.<br><br></li>
+
+  <li>Navigate with your FTP program to the folder on your server in which you installed MyBB.<br><br></li>
+
+  <li>Navigate to the folder on your server called <font class="file">inc</font> and to the folder called <font class="file">languages</font>, which will be located in the folder called <font class="file">inc</font>. In the folder <font class="file">languages</font> you should see a folder named <font class="file">english</font> and a file named <font class="file">english.php</font>.<br><br></li>
+
+  <li>Copy the file <font class="file">romanian.php</font> from your computer to this folder on the server. It should then be present in the folder <font class="file">languages</font>.<br><br></li>
+
+  <li>After that copy the folder called <font class="file">romanian</font> from your computer to the folder <font class="file">languages</font> on the server.<br><br></li>
+
+  <li>Navigate with your FTP program to the folder on your server in which you installed MyBB.<br><br></li>
+ 
+  <li>Navigate with your FTP program to the subfolder called <font class="file">images</font> on your server. In the folder <font class="file">images</font> you should see a folder named <font class="file">english</font>.<br><br></li>
+
+  <li>After that navigate to the subfolder called <font class="file">images</font> on your computer. You will see a folder called <font class="file">romanian</font> in this folder.<br><br></li>
+
+  <li>Copy this folder called <font class="file">romanian</font> (which is located in the subfolder <font class="file">images</font>) from your computer to the folder <font class="file">images</font> on the server. The files <font class="file">closed.gif</font>, <font class="file">newreply.gif</font>, <font class="file">newthread.gif</font>, <font class="file">postbit_delete.gif</font>, <font class="file">postbit_edit.gif</font>, <font class="file">postbit_email.gif</font>, <font class="file">postbit_find.gif</font>, <font class="file">postbit_pm.gif</font>, <font class="file">postbit_profile.gif</font>, <font class="file">postbit_quote.gif</font>, <font class="file">postbit_report.gif</font> and <font class="file">postbit_www.gif</font> will be located in this folder called <font class="file">romanian</font>.<br><br></li>
+
+  <li>After that navigate with your FTP program on the server to the subfolder <font class="file">images</font> again, and after that to the subfolder <font class="file">groupimages</font>. In the folder <font class="file">groupimages</font> you should see a folder named <font class="file">english</font>.</font><br><br></li>
+
+  <li>Navigate to the subfolder called <font class="file">images</font> and the subfolder called <font class="file">groupimages</font> (which is located in the subfolder <font class="file">images</font>). You will see a subfolder called <font class="file">Romanian</font>.<br><br></li>
+
+  <li>Copy this folder called <font class="file">romanian</font> (which is located in the subfolder <font class="file">groupimages</font>) from your computer to the folder <font class="file">groupimages</font> on the server. The files <font class="file">team-administrator.gif</font>, <font class="file">team-designer.gif</font>, <font class="file">team-developer.gif</font>, <font class="file">team-management.gif</font>, <font class="file">team-mod.gif</font>, <font class="file">team-supermod.gif</font>, <font class="file">team-support.gif</font> and <font class="file">team-tester.gif</font> will be located in this folder called <font class="file">romanian</font>.<br><br></li>
+  
+
+</ol>
+
+<p class="content">You have now uploaded all necessary files to the server. Read the following paragraphs for more information on how to enable the Romanian language on your board.</p>
+
+
+<p class="smtitle"><a name="subj3">3. USAGE</a></p>
+
+<p class="content">After uploading the required files you can use the Romanian translation for your copy of MyBB. We will hereafter discuss how to use the Romanian translation for the front end of the board, how to use the Romanian translation for the admin area of the board and how to set the Romanian translation as the default language for your board. The default language will be used by guests and users who haven't set a language preference.</p>
+
+<ul class="instlist" type="square">
+  <li>To use the Romanian language for the front end of the board, a user should go to the User CP and click Edit Options. Then he can select Romanian as "Board Language" below "Other options".<br><br></li>
+
+  <li>To set the Romanian language as the default language for your board, an administrator should go to the Admin CP and click the Configuration tab. He will see "General Configuration" at the top of the list. He should click on that title. Then he can select Romanian below "Default Language" and click "Save Settings" to submit the changes.<br><br></li>
+  
+  <li>To use the Romanian language for the admin part of the board, an administrator should go to the Admin CP and click the Configuration tab. At the bottom of the list he will see "Control Panel Preferences (Global)". He should click on that title. Then he can select Romanian below "Control Panel Language" and click "Save Settings" to submit the changes.<br><br></li>
+</ul>
+
+<div id="version_bubble">
+<p class="smtitle"><a name="subj4">4. CHANGES MADE SINCE THE PREVIOUS LANGUAGE PACK</a></p>
+
+<p class="content">Below are the most obvious changes compared to the previous language pack.</p>
+
+<ul class="contlist" type="square">
+  <li><b>1st of May, 2014:</b> Updated to MyBB 1.6.13 (1613)</li>
+  <li><b>30th of December, 2013:</b> Updated to MyBB 1.6.12 (1612)</li>
+  <li><b>12th of October, 2013:</b> Updated to MyBB 1.6.11 (1611)</li>
+  <li><b>22nd of April, 2013:</b> Updated to MyBB 1.6.10 (1610)</li>
+  <li><b>15th of December, 2012:</b> Updated to MyBB 1.6.9 (1609)</li>
+  <li><b>27th of May, 2012:</b> Updated to MyBB 1.6.8 (1608)</li>
+  <li><b>1st of April, 2012:</b> Updated to MyBB 1.6.7 (1607)</li>
+  <li><b>10th of February, 2012:</b> Updated to MyBB 1.6.6 (1606)</li>
+  <li><b>11th of January, 2012:</b> Added a few missing diacritics and corrected some misspelled words for the administration panel.</li>
+  <li><b>4th of January, 2012:</b> Added a few missing diacritics and corrected some misspelled words for the front-end.</li>
+</ul>
+</div>
+
+<p class="smtitle"><a name="subj5">5. ADDITIONAL INFORMATION</a></p>
+
+<p class="content">If you wish to contact the authors of this translation, please go to the Admin CP and click the Configuration tab. After that, click Languages to view the Languages module. There you will find a list of installed language packs and a link to the authors' websites. You can click the links to contact the authors of this language pack. Additionally you can go to the <a href="http://community.mybb.com/" target="_blank">MyBB Community Forums</a> and look in the member list for the translator's name. You could also post a thread in the Internationalization forum there. Your comments are a valuable source of information and we will use your comments to improve future translations!</p>
+
+
+<p class="footer1">I hope you will enjoy using MyBB,</p>
+
+<div class="footer2"><a href="http://community.mybb.com/user-37107.html" target="_blank">Kaeden</a></div>
+<div class="footer2">Romanian Translator</div>
+
+</div>
+
+</body></html>

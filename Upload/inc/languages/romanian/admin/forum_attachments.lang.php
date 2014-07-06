@@ -71,6 +71,7 @@ $l['step2of2'] = "Pasul 2 din 2 - Scanare Bază Date";
 $l['step1of2_line1'] = "Te rugăm să aștepți, sistemul de fișiere este momentan scanat pentru găsirea fișierelor împrăștiate.";
 $l['step2of2_line1'] = "Te rugăm să aștepți, baza de date este momentan scanată pentru găsirea fișierelor împrăștiate.";
 $l['step_line2'] = "Vei fi redirecționat automat la următorul pas odată ce acest proces este încheiat.";
+$l['scanning'] = 'Verificare...';
 
 // = Attachments / Index
 $l['index_find_attachments'] = "Fișiere Atașate - Găsire";

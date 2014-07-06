@@ -3,7 +3,7 @@
  * MyBB 1.6 Romanian Language Pack
  * Copyright 2012 Kaeden, All Rights Reserved
  * 
- * $Id: english.php 5641 2014-05-01 Kaeden $
+ * $Id: english.php 5641 2014-07-06 Kaeden $
  */
 
 // The friendly name of the language
@@ -16,7 +16,7 @@ $langinfo['author'] = "Kaeden";
 $langinfo['website'] = "http://community.mybb.com/user-37107.html";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1613";
+$langinfo['version'] = "1614";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 1;

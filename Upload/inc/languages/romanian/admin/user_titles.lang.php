@@ -13,6 +13,7 @@ $l['add_new_user_title_desc'] = "Această secțtiune îți permite să adaugi un
 
 $l['error_missing_title'] = "Nu ai completat numele titlului.";
 $l['error_missing_posts'] = "Nu ai specificat limita minimă de mesaje trimise.";
+$l['error_cannot_have_same_posts'] = "Există un titlu deja definit care necesită acest număr minim de mesaje. Te rugăm să modifici limita.";
 $l['error_invalid_user_title'] = "Ai specificat un titlu invalid.";
 
 $l['success_user_title_created'] = "Noul titlu a fost adăugat cu succes..";

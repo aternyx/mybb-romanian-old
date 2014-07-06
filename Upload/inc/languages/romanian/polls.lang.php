@@ -35,7 +35,7 @@ $l['post_new_poll'] = "Adaugă acest Chestionar";
 $l['days'] = "zile";
 $l['poll_results'] = "Rezultatele Chestionarului";
 $l['poll_total'] = "Total:";
-$l['poll_votes'] = "voturi";
+$l['poll_votes'] = "vot(uri)";
 
 $l['redirect_pollposted'] = "Chestionarul a fost publicat.<br /> Vei fi redirecționat către subiectul de discuție.";
 $l['redirect_pollpostedmoderated'] = "Chestionarul a fost publicat, dar subiectul de discuție la care este atașat încă trebuie aprobat.<br /> Vei fi redirecționat către forum.";

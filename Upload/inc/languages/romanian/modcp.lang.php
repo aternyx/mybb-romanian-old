@@ -187,6 +187,8 @@ $l['edited_user'] = "A modificat un profil";
 $l['edited_user_info'] = "<strong>Utilizator:</strong> <a href=\"{2}\">{1}</a>";
 $l['banned_user'] = "A suspendat utilizatorul";
 $l['lifted_ban'] = "A ridicat suspendarea utilizatorului";
+$l['no_bans_ending'] = "Nu există suspendări care să expire în curând.";
+$l['close_window'] = "Închide fereastra";
 
 $l['warning_logs'] = "Jurnal Avertismente";
 $l['warned_user'] = "Utilizator avertizat";
@@ -279,4 +281,9 @@ $l['error_invalid_start_date'] = "Data de început pentru acest anunț este eron
 $l['error_invalid_end_date'] = "Data de expirare pentru acest anunț este eronată.";
 $l['error_end_before_start'] = "Data de expirare trebuie să fie după cea de început.";
 $l['error_invalid_announcement'] = "Anunțul specificat este eronat.";
+$l['announcement_added'] = "Anunț adăugat";
+$l['announcement_edited'] = "Anunț modificat";
+$l['announcement_deleted'] = "Anunț șters";
+
+$l['post'] = 'Publică';
 ?>

@@ -213,6 +213,7 @@ $l['save_permissions'] = "Salvează Permisiuni Forum";
 $l['error_missing_title'] = "Trebuie să completezi un titlu.";
 $l['error_no_parent'] = "Trebuie să selectezi un forum-părinte.";
 $l['error_not_empty'] = "Forumurile care conțin subiecte de discuție nu pot fi convertite în categorii.";
+$l['error_forum_link_not_empty'] = "Forumurile care conțin subiecte de discuție nu pot fi redirecționate la o altă pagină de web.";
 
 $l['success_forum_added'] = "Forumul a fost adăugat.";
 $l['success_moderator_added'] = "Moderatorul a fost adăugat la acest forum.";

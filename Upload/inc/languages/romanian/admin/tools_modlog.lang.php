@@ -24,6 +24,7 @@ $l['forum'] = "Forum:";
 $l['thread'] = "Subiect:";
 $l['post'] = "Răspuns:";
 $l['user_info'] = "Utilizator:";
+$l['announcement'] = "Anunț:";
 
 $l['filter_moderator_logs'] = "Triază Jurnalul de Moderare";
 $l['forum_moderator'] = "Moderator Forum:";

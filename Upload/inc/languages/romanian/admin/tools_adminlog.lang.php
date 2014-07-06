@@ -221,7 +221,8 @@ $l['admin_log_tools_tasks_enable'] = "A activat o automatizare #{1} ({2})";
 $l['admin_log_tools_tasks_disable'] = "A șters o automatizare #{1} ({2})";
 $l['admin_log_tools_tasks_run'] = "A executat o automatizare #{1} ({2})";
 
-$l['admin_log_user_admin_permissions_delete'] = "A șters permisiunile de administrare pentru un utilizator #{1} ({2})";
+$l['admin_log_user_admin_permissions_delete_user'] = "A șters permisiunile de administrare pentru un utilizator #{1} ({2})";
+$l['admin_log_user_admin_permissions_delete_group'] = "A șters permisiunile de administrare pentru grupul #{1} ({2})";
 $l['admin_log_user_admin_permissions_edit_user'] = "A modificat permisiunile de administrare pentru un utilizator #{1} ({2})";
 $l['admin_log_user_admin_permissions_edit_group'] = "A modificat permisiunile de administrare pentru un grup #{1} ({2})";
 $l['admin_log_user_admin_permissions_edit'] = "A modificat permisiunile standard de administrare.";

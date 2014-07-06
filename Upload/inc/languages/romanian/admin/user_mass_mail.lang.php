@@ -62,6 +62,7 @@ $l['subject'] = "Subiect";
 $l['message'] = "Mesaj";
 $l['text_based'] = "Versiune Text";
 $l['preview'] = "Previzualizează";
+$l['mass_mail_preview'] = "Previzualizează Buletin Informații";
 $l['html_based'] = "Versiune HTML";
 $l['total_recipients'] = "Total Destinatari";
 $l['change_recipient_conds'] = "Schimbă Condițiile de Expediere";

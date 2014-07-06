@@ -74,6 +74,7 @@ $l['error_too_many_images3'] = "<b>Notă:</b> Numărul maxim de imagini admise �
 $l['error_attach_file'] = "Eroare la atașarea fișierului";
 $l['please_correct_errors'] = "Te rugăm să remediezi următoarele erori înainte de a continua:";
 $l['error_reachedattachquota'] = "Ne pare rău, însă nu mai poți încărca acest document întrucât ai atins limita maximă admisă: {1}";
+$l['error_maxattachpost'] = "Ne pare rău, însă nu mai poți încărca acest documen întrucât ai atins limita maximă de documente atașate pentru un mesaj: {1}";
 $l['error_invaliduser'] = "Utilizatorul specificat este invalid sau nu există.";
 $l['error_invalidaction'] = "Acțiune invalidă";
 $l['error_messagelength'] = "Ne pare rău, însă mesajul tău este prea lung și nu poate fi trimis. Te rugăm să îi micșorezi dimensiunile.";

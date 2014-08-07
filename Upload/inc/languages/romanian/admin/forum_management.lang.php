@@ -82,7 +82,7 @@ $l['no_moderators'] = "Nu s-au găsit moderatori.";
 
 $l['success_forum_disporder_updated'] = "Ordinea de afișare a forumurilor a fost actualizată.";
 $l['success_forum_deleted'] = "Forumul selectat a fost șters.";
-$l['success_moderator_deleted'] = "Moderatorul selectat a fost înlăturat.";
+$l['success_moderator_deleted'] = "Moderatorul selectat a fost înlăturat. <br /> Atenție: verifică dacă grupul din care face parte acest utilizator nu are cumva permisiuni de moderare.";
 $l['success_forum_permissions_updated'] = "Permisiunile forumului au fost actualizate.";
 $l['success_forum_updated'] = "Opțtiunile forumului au fost actualizate.";
 $l['success_moderator_updated'] = "Moderatorul selectat a fost actualizat.";

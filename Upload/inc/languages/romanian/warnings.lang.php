@@ -80,6 +80,7 @@ $l['result_banned'] = "Utilizatorul va fi mutat în grupul utilizatorilor suspen
 $l['result_suspended'] = "Privilegiul de publicare va fi revocat {1}";
 $l['result_moderated'] = "Mesajele vor necesita aprobare {1}";
 $l['result_period'] = "{1} {2}";
+$l['result_period_perm'] = "permanent";
 $l['hour_or_hours'] = "Ore";
 $l['day_or_days'] = "Zi(le)";
 $l['week_or_weeks'] = "Săptămâni";

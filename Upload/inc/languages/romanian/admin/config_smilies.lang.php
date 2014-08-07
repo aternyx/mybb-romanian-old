@@ -46,6 +46,7 @@ $l['error_missing_path'] = "Nu ai introdus o cale către locația acestul zâmbe
 $l['error_missing_path_multiple'] = "Nu ai introdus o cale.";
 $l['error_missing_order'] = "Nu ai introdus un număr de ordine.";
 $l['error_missing_clickable'] = "Nu ai selectat Da sau Nu pentru opțiunea \"Selecție rapidă\"";
+$l['error_duplicate_order'] = "Nu ai ordonat corespunzător acest zâmbet.";
 $l['error_no_smilies'] = "Nu există zâmbete în acest director sau deja au fost adăugate.";
 $l['error_no_images'] = "Nu există imagini în directorul specificat.";
 $l['error_none_included'] = "Nu ai selectat niciun zâmbet pentru includere.";

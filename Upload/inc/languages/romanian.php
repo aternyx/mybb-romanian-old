@@ -16,7 +16,7 @@ $langinfo['author'] = "Kaeden";
 $langinfo['website'] = "http://community.mybb.com/user-37107.html";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1614";
+$langinfo['version'] = "1615";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 1;

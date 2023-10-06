@@ -1,22 +1,22 @@
 <?php
 /**
- * MyBB 1.6 Romanian Language Pack
- * Copyright 2012 Kaeden, All Rights Reserved
- * 
- * $Id: english.php 5641 2014-07-06 Kaeden $
+ *
+ * MyBB 1.8 Romanian Language Pack
+ * Copyright 2012 Kaeden, 2023 mgXzyy; All Rights Reserved
+ *
  */
 
 // The friendly name of the language
 $langinfo['name'] = "Română (Romanian)";
 
 // The author of the language
-$langinfo['author'] = "Kaeden";
+$langinfo['author'] = "mgXzyy";
 
 // The language authors website
-$langinfo['website'] = "http://community.mybb.com/user-37107.html";
+$langinfo['website'] = "http://mgxweb.cf";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1615";
+$langinfo['version'] = "1836";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 1;

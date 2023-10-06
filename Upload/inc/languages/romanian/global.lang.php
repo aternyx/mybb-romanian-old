@@ -31,7 +31,7 @@ $l['welcome_newposts'] = "Vizualizează mesajele noi";
 $l['welcome_todaysposts'] = "Vezi mesajele de astăzi";
 $l['welcome_pms'] = "Mesaje Private";
 $l['welcome_pms_usage'] = "(Noi {1}, Total {2})";
-$l['welcome_back'] = "<strong>Bun revenit, {1}</strong>. Ultima vizită: {2}";
+$l['welcome_back'] = "<strong>Bine ai revenit, {1}</strong>. Ultima vizită: {2}";
 $l['welcome_guest'] = "Salut, Vizitator!";
 $l['welcome_current_time'] = "<strong>Data și Ora Forumului:</strong> {1}";
 

@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.6 Romanian Language Pack
- * Copyright 2012 Kaeden, All Rights Reserved
+ * MyBB 1.8 Romanian Language Pack
+ * Copyright 2023 mgXzyy; All Rights Reserved
  * 
  * $Id: user_group_promotions.lang.php 5557 2012-02-10 Kaeden $
  */

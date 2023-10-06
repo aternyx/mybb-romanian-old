@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.6 Romanian Language Pack
- * Copyright 2011 Kaeden, All Rights Reserved
+ * MyBB 1.8 Romanian Language Pack
+ * Copyright 2023 mgXzyy; All Rights Reserved
  * 
  * $Id: config_settings.lang.php 5557 2011-12-29 Kaeden $
  */
@@ -185,7 +185,7 @@ $l['setting_browsingthisforum_desc'] = "Aici poți dezactiva facilitatea 'Utiliz
 $l['setting_announcementlimit'] = "Limită Anunțuri";
 $l['setting_announcementlimit_desc'] = "Numărul maxim de anunțuri afișate în lista de subiecte a unui forum. Completează 0 pentru a dezactiva anunțurile.";
 $l['setting_readparentforums'] = "Încercare Marcare Forumuri-Părinte ca citite";
-$l['setting_readparentforums_desc'] = "Activând această opțiune, se va încerca marcarea forumurilor-părinte ale subforumurilor ca citite dacă nu mai există mesaje neverificate. Te rugăm să reții că această facilitate poate conduce la o scădere a performanței sistemului și multiple interogări asupra bazei de date, prin urmare trebuind tratată ca experimentală. Verifică <a href=\"http://wiki.mybb.com/index.php/1.6.5\">MyBB Wiki</a> pentru mai multe informații.";
+$l['setting_readparentforums_desc'] = "Activând această opțiune, se va încerca marcarea forumurilor-părinte ale subforumurilor ca citite dacă nu mai există mesaje neverificate. Te rugăm să reții că această facilitate poate conduce la o scădere a performanței sistemului și multiple interogări asupra bazei de date, prin urmare trebuind tratată ca experimentală. Verifică <a href=\"http://wiki.mybb.com/index.php/1.8.5\">MyBB Wiki</a> pentru mai multe informații.";
 $l['setting_showdescriptions'] = "Arată descrierile forumurilor?";
 $l['setting_showdescriptions_desc'] = "Această opțiune îți permite să activezi sau să dezactivezi afișarea descrierilor forumurilor.";
 $l['setting_subforumsindex'] = "Subforumuri afișate în Lista Principală";

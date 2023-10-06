@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.6 Romanian Language Pack
- * Copyright 2011 Kaeden, All Rights Reserved
+ * MyBB 1.8 Romanian Language Pack
+ * Copyright 2023 mgXzyy; All Rights Reserved
  * 
  * $Id: tools_system_health.lang.php 5497 2014-05-01 Kaeden $
  */

@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  *
- * $Id: usercp.lang.php 5616 2011-12-24 Kaeden $
+ * $Id: usercp.lang.php 5616 2011-12-24 mgXzyy $
  */
 
 $l['nav_usercp'] = "Panoul de Control al Utilizatorului";

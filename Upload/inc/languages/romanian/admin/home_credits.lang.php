@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: home_credits.lang.php 5297 2011-12-29 Kaeden $
+ * $Id: home_credits.lang.php 5297 2011-12-29 mgXzyy $
  */
 
 $l['mybb_credits'] = "Mențiuni MyBB";

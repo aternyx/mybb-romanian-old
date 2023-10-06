@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  *
- * $Id: datahandler_pm.lang.php 5297 2011-12-24 Kaeden $
+ * $Id: datahandler_pm.lang.php 5297 2011-12-24 mgXzyy $
  */
 
 $l['pmdata_too_long_subject'] = 'Subiectul ales pentru mesajul privat este prea lung. Te rugăm să îl restrângi.';

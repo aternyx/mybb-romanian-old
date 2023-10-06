@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: managegroup.lang.php 5297 2011-12-24 Kaeden $
+ * $Id: managegroup.lang.php 5297 2011-12-24 mgXzyy $
  */
 
 $l['nav_group_management'] = "Administrare Grup {1} ";

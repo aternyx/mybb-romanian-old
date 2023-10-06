@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: style_module_meta.lang.php 5297 2011-12-29 Kaeden $
+ * $Id: style_module_meta.lang.php 5297 2011-12-29 mgXzyy $
  */
  
 $l['templates_and_style'] = "Șabloane și Stiluri";

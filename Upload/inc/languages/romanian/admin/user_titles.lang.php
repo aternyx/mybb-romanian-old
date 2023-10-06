@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: user_titles.lang.php 5349 2011-12-29 Kaeden $
+ * $Id: user_titles.lang.php 5349 2011-12-29 mgXzyy $
  */
 
 $l['user_titles'] = "Titluri utilizatori";

@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: style_templates.lang.php 5383 2011-12-29 Kaeden $
+ * $Id: style_templates.lang.php 5383 2011-12-29 mgXzyy $
  */
  
 $l['template_sets'] = "Seturi Șabloane";

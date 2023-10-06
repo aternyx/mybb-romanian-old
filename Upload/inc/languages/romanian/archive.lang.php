@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: archive.lang.php 5365 2011-12-24 Kaeden $
+ * $Id: archive.lang.php 5365 2011-12-24 mgXzyy $
  */
 
 $l['archive_fullversion'] = "Versiunea completă:";

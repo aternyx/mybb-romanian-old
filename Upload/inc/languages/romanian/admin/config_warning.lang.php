@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: config_warning.lang.php 5297 2011-12-29 Kaeden $
+ * $Id: config_warning.lang.php 5297 2011-12-29 mgXzyy $
  */
  
 $l['warning_system'] = "Sistem Avertismente";

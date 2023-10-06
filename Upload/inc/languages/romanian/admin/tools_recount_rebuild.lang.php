@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: tools_recount_rebuild.lang.php 5500 2011-12-29 Kaeden $
+ * $Id: tools_recount_rebuild.lang.php 5500 2011-12-29 mgXzyy $
  */
 
 $l['recount_rebuild'] = "Renumărare și Regenerare";

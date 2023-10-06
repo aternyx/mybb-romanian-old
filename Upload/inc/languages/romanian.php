@@ -2,7 +2,7 @@
 /**
  *
  * MyBB 1.8 Romanian Language Pack
- * Copyright 2012 Kaeden, 2023 mgXzyy; All Rights Reserved
+ * Copyright 2023 mgXzyy; All Rights Reserved
  *
  */
 

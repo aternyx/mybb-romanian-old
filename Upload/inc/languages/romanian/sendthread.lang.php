@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: sendthread.lang.php 5297 2011-12-24 Kaeden $
+ * $Id: sendthread.lang.php 5297 2011-12-24 mgXzyy $
  */
 
 $l['nav_sendthread'] = "Trimite Subiectul unui Prieten";

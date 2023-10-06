@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: global.lang.php 5583 2011-12-29 Kaeden $
+ * $Id: global.lang.php 5583 2011-12-29 mgXzyy $
  */
  
 $l['today'] = "Astăzi";

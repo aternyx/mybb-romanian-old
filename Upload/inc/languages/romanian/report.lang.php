@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: report.lang.php 5297 2011-12-24 Kaeden $
+ * $Id: report.lang.php 5297 2011-12-24 mgXzyy $
  */
 
 $l['report_post'] = "Semnalează Mesaj";

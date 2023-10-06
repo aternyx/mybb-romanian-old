@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: config_profile_fields.lang.php 5616 2014-05-01 Kaeden $
+ * $Id: config_profile_fields.lang.php 5616 2014-05-01 mgXzyy $
  */
  
 $l['custom_profile_fields'] = "Câmpuri Opționale Profil";

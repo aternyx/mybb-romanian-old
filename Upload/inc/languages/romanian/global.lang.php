@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  *
- * $Id: global.lang.php 5601 2011-04-22 Kaeden $
+ * $Id: global.lang.php 5601 2011-04-22 mgXzyy $
  */
 
 $l['redirect_width'] = "50%";

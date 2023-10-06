@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: akismet.lang.php 5557 2011-12-24 Kaeden $
+ * $Id: akismet.lang.php 5557 2011-12-24 mgXzyy $
  */
 
 $l['spam'] = "Spam";

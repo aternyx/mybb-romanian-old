@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: datahandler_post.lang.php 5297 2011-12-24 Kaeden $
+ * $Id: datahandler_post.lang.php 5297 2011-12-24 mgXzyy $
  */
 
 $l['postdata_invalid_user_id'] = 'IDul utilizatorului nu există. Te rugăm să specifici un ID valid.';

@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: user_module_meta.lang.php 5297 2011-12-29 Kaeden $
+ * $Id: user_module_meta.lang.php 5297 2011-12-29 mgXzyy $
  */
  
 $l['users_and_groups'] = "Grupuri și Utilizatori";

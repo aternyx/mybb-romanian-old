@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  *
- * $Id: reputation.lang.php 5593 2011-12-24 Kaeden $
+ * $Id: reputation.lang.php 5593 2011-12-24 mgXzyy $
  */
 
 $l['nav_reputation'] = "Sumar Reputație";

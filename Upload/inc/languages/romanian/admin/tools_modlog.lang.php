@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: tools_modlog.lang.php 5557 2011-12-29 Kaeden $
+ * $Id: tools_modlog.lang.php 5557 2011-12-29 mgXzyy $
  */
 
 

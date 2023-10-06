@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  *
- * $Id: datahandler_user.lang.php 5297 2011-12-24 Kaeden $
+ * $Id: datahandler_user.lang.php 5297 2011-12-24 mgXzyy $
  */
 
 $l['userdata_missing_username'] = 'Nu ai completat un nume de utilizator. Te rugăm să alegi unul.';

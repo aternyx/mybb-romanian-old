@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: ratethread.lang.php 5297 2011-12-24 Kaeden $
+ * $Id: ratethread.lang.php 5297 2011-12-24 mgXzyy $
  */
 
 $l['redirect_threadrated'] = "Subiectul a fost punctat. Vei fi redirecționat la pagina anterioară.";

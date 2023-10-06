@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: messages.lang.php 5488 2011-12-24 Kaeden $
+ * $Id: messages.lang.php 5488 2011-12-24 mgXzyy $
  */
 
 $l['click_no_wait'] = "Apasă aici dacă nu dorești să mai aștepți.";

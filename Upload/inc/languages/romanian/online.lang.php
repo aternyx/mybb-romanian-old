@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: online.lang.php 5635 2012-05-27 Kaeden $
+ * $Id: online.lang.php 5635 2012-05-27 mgXzyy $
  */
 
 $l['nav_online'] = "Cine este conectat";

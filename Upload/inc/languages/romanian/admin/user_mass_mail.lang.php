@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: user_mass_mail.lang.php 5557 2011-12-29 Kaeden $
+ * $Id: user_mass_mail.lang.php 5557 2011-12-29 mgXzyy $
  */
 
 $l['mass_mail'] = "Buletine de Informații";

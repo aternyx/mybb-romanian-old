@@ -3,7 +3,7 @@
  * MyBB 1.8 Romanian Language Pack
  * Copyright 2023 mgXzyy; All Rights Reserved
  * 
- * $Id: newreply.lang.php 5617 2011-12-24 Kaeden $
+ * $Id: newreply.lang.php 5617 2011-12-24 mgXzyy $
  */
 
 $l['nav_newreply'] = "Publică Răspuns";

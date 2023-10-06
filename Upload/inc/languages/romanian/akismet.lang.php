@@ -8,7 +8,7 @@
 
 $l['spam'] = "Spam";
 
-$l['post_spam_success'] = "Mesajul(mesajele) a fost marcat(e) ca spam cu succes.";
+$l['post_spam_success'] = "Mesajul(ele) a fost marcat(e) ca spam cu succes.";
 $l['thread_spam_success'] = "Subiectul de discuție a fost marcat ca spam cu succes.";
 
 $l['mark_as_spam'] = "Marchează ca Spam";

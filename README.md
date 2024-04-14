@@ -1,9 +1,6 @@
 [![MyBB](https://raw.github.com/mybb/mybb/feature/images/logo.png "MyBB")](http://www.mybb.com "MyBB")
 ==========
 
-## MyBB Romanian Language Pack
-
-### About:
-
-The purpose of this repository is to allow the users of this language pack a smoother interaction.
-Feel free to fork the repository and submit pull requests.
+# WARNING - ATENTIE
+This version of the language will be discontinued, please visit the new one: https://github.com/aternyx/mybb-romanian
+Dezvoltarea acestei versiuni a pachetului de limba va fi inchis, va rog sa folositi versiunea noua aici: https://github.com/aternyx/mybb-romanian
